@@ -3,17 +3,17 @@
 #
 
 # Name of your site (displayed in the header)
-name: Kiko Now
+name: 광석
 
 # Short bio or description (displayed in the header)
-description: Web Developer from Somewhere
+description: 개발로그
 
 #
 # Flags below are optional
 #
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://raw.githubusercontent.com/aweekj/kiko-now/master/images/jekyll-logo.png
+avatar: https://avatars.githubusercontent.com/u/73097891?v=4
 
 
 # Tabs in header. There are 'Blog', 'About', 'Archive', 'Tags'
@@ -41,19 +41,19 @@ footer-links:
   email:
   facebook:
   flickr:
-  github: AWEEKJ/kiko-now
+  github: gseok89
   googleplus: # anything in your profile username that comes after plus.google.com/
-  instagram:
+  instagram: gseok89
   linkedin:
   pinterest:
   rss: # just type anything here for a working RSS icon
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
   tumblr: # https://<username>.tumblr.com
-  twitter: jekyllrb
+  twitter: _gseok
   youtube: # channel/<your_long_string> or user/<user-name>
 
 # Text under the icons in footer
-footer-text: © 2017 Kiko Now
+footer-text: © 2022 gseok89
 
 # Enter your Disqus shortname (not your username) to enable commenting on posts
 # You can find your shortname on the Settings page of your Disqus account
