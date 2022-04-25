@@ -4,12 +4,8 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
-
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
+하고 싶은 거 하고 사는 인디게임 개발자.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[suk5353@gmail.com](mailto:suk5353@gmail.com)
